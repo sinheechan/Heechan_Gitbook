@@ -11,6 +11,8 @@
   * [Page 3](undefined/sql-db/page-3.md)
 * [R](undefined/r/README.md)
   * [Page 2](undefined/r/page-2.md)
+* [알고리즘](undefined/undefined/README.md)
+  * [기초이론](undefined/undefined/undefined.md)
 
 ## 📊 우수한 사례들 zip
 
