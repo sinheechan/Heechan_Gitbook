@@ -4,6 +4,7 @@
 
 ## 알아야 할 것들
 
+* [Page 5](undefined/page-5.md)
 * [Python](undefined/python/README.md)
   * [Page 4](undefined/python/page-4.md)
   * [Page](undefined/python/page.md)
@@ -14,6 +15,8 @@
 
 * [R](r/README.md)
   * [Page 2](r/page-2.md)
+* [우수한 사례들 정리zip](zip/README.md)
+  * [Page 1](zip/page-1.md)
 
 ## 논문자료 정리
 
