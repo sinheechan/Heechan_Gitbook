@@ -16,23 +16,43 @@
 
 <summary>Title</summary>
 
-#### \[Subscribe]
+### <mark style="color:purple;">\[Subscribe]</mark>
 
 *
 
-#### \[ Introdution ]
+### <mark style="color:purple;">\[Introdution]</mark>
 
 *
 
-#### \[Methods]
+### <mark style="color:purple;">\[Methods]</mark>
 
 * d
 * d
 * d
 
-#### \[Results]
+### <mark style="color:purple;">\[Results]</mark>
 
 *
+
+### <mark style="color:purple;">\[Links]</mark>
+
+#### <mark style="color:blue;">Source(URL)</mark>
+
+*
+
+#### <mark style="color:blue;">Topic</mark>
+
+* 아리랑
+
+#### <mark style="color:blue;">Related</mark>
+
+*
+
+#### <mark style="color:blue;">Ideas</mark>
+
+*
+
+
 
 </details>
 
