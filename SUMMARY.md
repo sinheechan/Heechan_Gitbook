@@ -5,7 +5,7 @@
 ## 🤓 알아야 할 것들
 
 * [Python](undefined/python/README.md)
-  * [위키독스](undefined/python/undefined.md)
+  * [개념노트](undefined/python/undefined.md)
   * [Page](undefined/python/page.md)
 * [SQL / DB](undefined/sql-db/README.md)
   * [Page 3](undefined/sql-db/page-3.md)
