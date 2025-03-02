@@ -28,5 +28,7 @@
 
 ## 📑 논문자료 정리
 
-* [논문 DB](undefined-1/db/README.md)
-  * [eee](undefined-1/db/eee.md)
+* [논문 자료](undefined-1/undefined/README.md)
+  * [논문 DB](undefined-1/undefined/db.md)
+  * [개념노트](undefined-1/undefined/undefined.md)
+  * [Summary](undefined-1/undefined/summary.md)
